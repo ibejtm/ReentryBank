@@ -9,3 +9,9 @@ This a a project to reduce recitivism by creating a program to guide re-integrat
 1. install wordpress: https://wordpress.org/download/ extract into the htdocs directory of the new webserver from 1st step
 1. navigate to the directory installed and wordpress will walk you through a setup
 1. choose plugins
+1. setup theme
+
+## Contribution areas
+
+1. functionality. Data that is entered and read, created as a plugin or combination of plugins
+1. theme, the look and feel of the site, the actual pages
